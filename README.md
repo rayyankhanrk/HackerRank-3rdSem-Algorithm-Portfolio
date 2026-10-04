@@ -8,9 +8,9 @@
 - **Branch:** B.Tech Computer Science and Engineering
 - **University:** REVA University, Bengaluru
 
-## HackerRank Profile
+## HackerRank Profile https://www.hackerrank.com/profile/rayyanrkkhan038
 
-- **HackerRank:** Add your public HackerRank profile URL here
+- **HackerRank:** 
 
 ## GitHub Repository
 
